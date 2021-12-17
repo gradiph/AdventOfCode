@@ -1,5 +1,4 @@
-
-# DAY 1 QUESTION 1
+# DAY 1 PART 1
 
 # Santa is trying to deliver presents in a large apartment building, but he
 # can't find the right floor - the directions he got are a little confusing. He
@@ -21,7 +20,7 @@
 # ))) and )())()) both result in floor -3.
 # To what floor do the instructions take Santa?
 
-with open('input.txt', 'r') as file:
+with open('../inputs/d1.txt', 'r') as file:
     input = file.read()
     position = 0
 
