@@ -21,3 +21,11 @@ class Cuboid:
 
     def getFrontArea(self):
         return self.height * self.length
+
+    def getVolume(self):
+        return self.length * self.width * self.height
+
+    def getPresentWrapper(self):
+        units = [self.length, self.width, self.height]
+        units.remove(max(units))
+        return 2 * sum(units)
