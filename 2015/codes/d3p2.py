@@ -1,4 +1,4 @@
-# DAY 3 PART 1
+# DAY 3 PART 2
 
 # The next year, to speed up the process, Santa creates a robot version of
 # himself, Robo-Santa, to deliver presents with him.
